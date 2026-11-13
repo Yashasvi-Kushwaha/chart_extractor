@@ -1,0 +1,3210 @@
+{
+  "source_pdf": "sample2.pdf",
+  "summary": {
+    "pages_scanned": 57,
+    "charts_accepted": 25,
+    "export_dpi": 300
+  },
+  "charts": [
+    {
+      "page": 3,
+      "x0": 28.0,
+      "y0": 167.0,
+      "x1": 294.0,
+      "y1": 402.0,
+      "title": "Lagna Chart",
+      "section": "",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Lagna Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Mo",
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ve",
+        "Su",
+        "Me"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "11",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "12",
+          "planets": [
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "6",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "7",
+          "planets": [
+            "Su",
+            "Me"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_003_chart_0001_lagna_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 3,
+      "x0": 330.0,
+      "y0": 167.0,
+      "x1": 555.0,
+      "y1": 347.0,
+      "title": "Navamasa Chart",
+      "section": "",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Navamasa Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ra",
+        "Sa",
+        "Me",
+        "Pl",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ur",
+        "Su",
+        "Mo",
+        "Ve",
+        "Ne"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "7",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "8",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "10",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "12",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "1",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke",
+            "Ur"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "2",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "4",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "5",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "6",
+          "planets": [
+            "Ve",
+            "Ne"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_003_chart_0002_navamasa_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 15,
+      "x0": 125.0,
+      "y0": 337.0,
+      "x1": 455.0,
+      "y1": 597.0,
+      "title": "Lagna Chart",
+      "section": "Kalsarpa Dosh",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Lagna Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Mo",
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ve",
+        "Su",
+        "Me"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "11",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "12",
+          "planets": [
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "6",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "7",
+          "planets": [
+            "Su",
+            "Me"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_015_chart_0003_lagna_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 16,
+      "x0": 140.0,
+      "y0": 467.0,
+      "x1": 475.0,
+      "y1": 727.0,
+      "title": "Varshphal Chart (Solar Return Chart)",
+      "section": "Varshaphal (Annual Predictions)  Details",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Varshphal Chart (Solar Return Chart)'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Mo",
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ve",
+        "Su",
+        "Me"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "11",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "12",
+          "planets": [
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "6",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "7",
+          "planets": [
+            "Su",
+            "Me"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_016_chart_0004_varshphal_chart_solar_return_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 23,
+      "x0": 45.0,
+      "y0": 125.0,
+      "x1": 305.0,
+      "y1": 377.0,
+      "title": "Karakamsa Chart",
+      "section": "Jamini System - Karakamsa and Swamsa",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Karakamsa Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ve",
+        "Su",
+        "Me",
+        "Mo",
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "6",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "7",
+          "planets": [
+            "Su",
+            "Me"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "9",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "10",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "11",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "12",
+          "planets": [
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "2",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "11": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_023_chart_0005_karakamsa_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 23,
+      "x0": 305.0,
+      "y0": 125.0,
+      "x1": 565.0,
+      "y1": 377.0,
+      "title": "Swamsa Chart",
+      "section": "Jamini System - Karakamsa and Swamsa",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Swamsa Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ve",
+        "Ne",
+        "Ra",
+        "Sa",
+        "Me",
+        "Pl",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ur",
+        "Su",
+        "Mo"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "6",
+          "planets": [
+            "Ve",
+            "Ne"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "7",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "8",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "10",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "7": {
+          "sign": "12",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "1",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke",
+            "Ur"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "2",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "11": {
+          "sign": "4",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "5",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_023_chart_0006_swamsa_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 35,
+      "x0": 345.0,
+      "y0": 175.0,
+      "x1": 585.0,
+      "y1": 347.0,
+      "title": "Lagna Chart",
+      "section": "Lal Kitab Calculation",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Lagna Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Mo",
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ve",
+        "Su",
+        "Me"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "1",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "2",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "3",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "4",
+          "planets": [
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "5",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "6",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "9",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "10",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "11",
+          "planets": [
+            "Su",
+            "Me"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "12",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_035_chart_0007_lagna_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 42,
+      "x0": 63.0,
+      "y0": 62.0,
+      "x1": 275.0,
+      "y1": 252.0,
+      "title": "Lagna Chart",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Lagna Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Mo",
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ve",
+        "Su",
+        "Me"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "11",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "12",
+          "planets": [
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "6",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "7",
+          "planets": [
+            "Su",
+            "Me"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_042_chart_0008_lagna_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 42,
+      "x0": 335.0,
+      "y0": 62.0,
+      "x1": 545.0,
+      "y1": 252.0,
+      "title": "Hora Wealth",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Hora Wealth'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Su",
+        "Sa",
+        "Ur",
+        "Ne",
+        "Pl",
+        "Mo",
+        "Ma",
+        "Me",
+        "Ju",
+        "Ve",
+        "Ra",
+        "Ke"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "4",
+          "planets": [
+            "Su",
+            "Sa",
+            "Ur",
+            "Ne",
+            "Pl"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "5",
+          "planets": [
+            "Mo",
+            "Ma",
+            "Me",
+            "Ju",
+            "Ve",
+            "Ra",
+            "Ke"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "6",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "7": {
+          "sign": "10",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "12",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "11": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_042_chart_0009_hora_wealth.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 42,
+      "x0": 63.0,
+      "y0": 277.0,
+      "x1": 275.0,
+      "y1": 477.0,
+      "title": "Drekkana - Siblings",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Drekkana - Siblings'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ur",
+        "Pl",
+        "Me",
+        "Ra",
+        "Ne",
+        "Mo",
+        "Ve",
+        "Su",
+        "Sa"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "6",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "10",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "11",
+          "planets": [
+            "Me",
+            "Ra"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "12",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "1",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "2",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "3",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "4",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_042_chart_0010_drekkana_siblings.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 42,
+      "x0": 335.0,
+      "y0": 277.0,
+      "x1": 545.0,
+      "y1": 477.0,
+      "title": "Chaturthamsha - Luck",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Chaturthamsha - Luck'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Me",
+        "Ra",
+        "Mo",
+        "Pl",
+        "Ve",
+        "Sa",
+        "Ne",
+        "Su",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ur"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "6",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "3": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "10",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "11",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "12",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "1",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "3",
+          "planets": [
+            "Ve",
+            "Sa",
+            "Ne"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "4",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke",
+            "Ur"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_042_chart_0011_chaturthamsha_luck.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 42,
+      "x0": 63.0,
+      "y0": 507.0,
+      "x1": 275.0,
+      "y1": 707.0,
+      "title": "Saptamamsha - Children",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Saptamamsha - Children'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ma",
+        "Ju",
+        "Ke",
+        "Pl",
+        "Ve",
+        "Ne",
+        "Me",
+        "Sa",
+        "Ur",
+        "Mo",
+        "Ra",
+        "Su"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "3": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke",
+            "Pl"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "6",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "7",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "9",
+          "planets": [
+            "Me",
+            "Sa"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "10",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "11",
+          "planets": [
+            "Mo",
+            "Ra"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "12",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "1",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_042_chart_0012_saptamamsha_children.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 42,
+      "x0": 335.0,
+      "y0": 507.0,
+      "x1": 545.0,
+      "y1": 707.0,
+      "title": "Navamsha - Spouse",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Navamsha - Spouse'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ra",
+        "Sa",
+        "Me",
+        "Pl",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ur",
+        "Su",
+        "Mo",
+        "Ve",
+        "Ne"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "7",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "8",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "10",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "12",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "1",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke",
+            "Ur"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "2",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "4",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "5",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "6",
+          "planets": [
+            "Ve",
+            "Ne"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_042_chart_0013_navamsha_spouse.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 43,
+      "x0": 63.0,
+      "y0": 62.0,
+      "x1": 275.0,
+      "y1": 252.0,
+      "title": "Dashamamsha - Profession",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Dashamamsha - Profession'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ma",
+        "Ju",
+        "Ke",
+        "Pl",
+        "Me",
+        "Ne",
+        "Ve",
+        "Ra",
+        "Mo",
+        "Sa",
+        "Ur",
+        "Su"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "6",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "8",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "7": {
+          "sign": "10",
+          "planets": [
+            "Me",
+            "Ne"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "11",
+          "planets": [
+            "Ve",
+            "Ra"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "12",
+          "planets": [
+            "Mo",
+            "Sa"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "1",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "3",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_043_chart_0014_dashamamsha_profession.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 43,
+      "x0": 335.0,
+      "y0": 62.0,
+      "x1": 545.0,
+      "y1": 252.0,
+      "title": "Dwadashmamsha - Parents",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Dwadashmamsha - Parents'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ur",
+        "Me",
+        "Ra",
+        "Mo",
+        "Pl",
+        "Ne",
+        "Su",
+        "Ma",
+        "Ju",
+        "Ve",
+        "Sa",
+        "Ke"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "6",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "3": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "10",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "11",
+          "planets": [
+            "Me",
+            "Ra"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "12",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "1",
+          "planets": [
+            "Mo",
+            "Pl"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "3",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "5",
+          "planets": [
+            "Su",
+            "Ma",
+            "Ju",
+            "Ve",
+            "Sa",
+            "Ke"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_043_chart_0015_dwadashmamsha_parents.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 43,
+      "x0": 63.0,
+      "y0": 277.0,
+      "x1": 275.0,
+      "y1": 477.0,
+      "title": "Shodashamsha - Vehicles",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Shodashamsha - Vehicles'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ur",
+        "Ve",
+        "Ne",
+        "Mo",
+        "Su",
+        "Sa",
+        "Ma",
+        "Ju",
+        "Ra",
+        "Ke",
+        "Pl",
+        "Me"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "12",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "1",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ra",
+            "Ke",
+            "Pl"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "6",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_043_chart_0016_shodashamsha_vehicles.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 43,
+      "x0": 335.0,
+      "y0": 277.0,
+      "x1": 545.0,
+      "y1": 477.0,
+      "title": "Vimshamsha - Religious Inclinations",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Vimshamsha - Religious Inclinations'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Me",
+        "Ma",
+        "Ju",
+        "Ra",
+        "Ke",
+        "Ne",
+        "Mo",
+        "Ve",
+        "Sa",
+        "Ur",
+        "Su",
+        "Pl"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "8",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "9",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ra",
+            "Ke"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "10",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "11",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "12",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "7": {
+          "sign": "2",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "3",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "5",
+          "planets": [],
+          "values": []
+        },
+        "11": {
+          "sign": "6",
+          "planets": [
+            "Su",
+            "Pl"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_043_chart_0017_vimshamsha_religious_inclinations.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 43,
+      "x0": 63.0,
+      "y0": 507.0,
+      "x1": 275.0,
+      "y1": 707.0,
+      "title": "Chaturvimshamsha - Education",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Chaturvimshamsha - Education'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Pl",
+        "Ur",
+        "Mo",
+        "Me",
+        "Su",
+        "Ve",
+        "Sa",
+        "Ma",
+        "Ra",
+        "Ke",
+        "Ju",
+        "Ne"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "11",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "12",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "1",
+          "planets": [
+            "Mo",
+            "Me"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "2",
+          "planets": [
+            "Su",
+            "Ve"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "3",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "7": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Ra",
+            "Ke"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "6",
+          "planets": [
+            "Ju"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "11": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "10",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_043_chart_0018_chaturvimshamsha_education.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 43,
+      "x0": 335.0,
+      "y0": 507.0,
+      "x1": 545.0,
+      "y1": 707.0,
+      "title": "Saptavimshamsha - Strength",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Saptavimshamsha - Strength'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Mo",
+        "Sa",
+        "Pl",
+        "Ma",
+        "Ur",
+        "Ju",
+        "Ke",
+        "Me",
+        "Ne",
+        "Ve",
+        "Su",
+        "Ra"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Mo",
+            "Sa"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "11",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "12",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "1",
+          "planets": [
+            "Ma",
+            "Ur"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [
+            "Me",
+            "Ne"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "5",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "6",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_043_chart_0019_saptavimshamsha_strength.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 44,
+      "x0": 63.0,
+      "y0": 62.0,
+      "x1": 275.0,
+      "y1": 252.0,
+      "title": "Trimshamsha - Misfortune",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Trimshamsha - Misfortune'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ur",
+        "Ne",
+        "Pl",
+        "Su",
+        "Ve",
+        "Mo",
+        "Me",
+        "Sa",
+        "Ma",
+        "Ju",
+        "Ra",
+        "Ke"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "3": {
+          "sign": "5",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "6",
+          "planets": [
+            "Ur",
+            "Ne",
+            "Pl"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "7",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "8",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "9",
+          "planets": [
+            "Mo",
+            "Me"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "10",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "10": {
+          "sign": "12",
+          "planets": [
+            "Sa"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "1",
+          "planets": [
+            "Ma",
+            "Ju",
+            "Ra",
+            "Ke"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_044_chart_0020_trimshamsha_misfortune.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 44,
+      "x0": 335.0,
+      "y0": 62.0,
+      "x1": 545.0,
+      "y1": 252.0,
+      "title": "Khavedamsha - Auspicious Results",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Khavedamsha - Auspicious Results'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ur",
+        "Ve",
+        "Su",
+        "Ma",
+        "Mo",
+        "Ju",
+        "Sa",
+        "Ra",
+        "Ke",
+        "Me",
+        "Ne",
+        "Pl"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "7",
+          "planets": [],
+          "values": []
+        },
+        "2": {
+          "sign": "8",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "9",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "10",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "12",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "1",
+          "planets": [
+            "Ma"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "2",
+          "planets": [
+            "Mo",
+            "Ju",
+            "Sa",
+            "Ra",
+            "Ke"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "3",
+          "planets": [
+            "Me"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "4",
+          "planets": [],
+          "values": []
+        },
+        "11": {
+          "sign": "5",
+          "planets": [
+            "Ne"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "6",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_044_chart_0021_khavedamsha_auspicious_results.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 44,
+      "x0": 63.0,
+      "y0": 277.0,
+      "x1": 275.0,
+      "y1": 477.0,
+      "title": "Akshvedamsha - Well Being",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Akshvedamsha - Well Being'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ju",
+        "Ur",
+        "Ne",
+        "Mo",
+        "Pl",
+        "Ve",
+        "Su",
+        "Ma",
+        "Me",
+        "Sa",
+        "Ra",
+        "Ke"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "7",
+          "planets": [
+            "Ju"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "8",
+          "planets": [
+            "Ur",
+            "Ne"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "10",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "12",
+          "planets": [
+            "Mo"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "2",
+          "planets": [
+            "Pl"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "3",
+          "planets": [
+            "Ve"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "4",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "5",
+          "planets": [
+            "Ma",
+            "Me"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "6",
+          "planets": [
+            "Sa",
+            "Ra",
+            "Ke"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_044_chart_0022_akshvedamsha_well_being.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 44,
+      "x0": 335.0,
+      "y0": 277.0,
+      "x1": 545.0,
+      "y1": 477.0,
+      "title": "Shastiamsha - Well Being",
+      "section": "Shodashvarga Charts",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Shastiamsha - Well Being'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [
+        "Ju",
+        "Ke",
+        "Ur",
+        "Su",
+        "Ra",
+        "Ve",
+        "Ne",
+        "Pl",
+        "Me",
+        "Sa",
+        "Mo",
+        "Ma"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "7",
+          "planets": [
+            "Ju",
+            "Ke"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "3": {
+          "sign": "9",
+          "planets": [],
+          "values": []
+        },
+        "4": {
+          "sign": "10",
+          "planets": [
+            "Ur"
+          ],
+          "values": []
+        },
+        "5": {
+          "sign": "11",
+          "planets": [],
+          "values": []
+        },
+        "6": {
+          "sign": "12",
+          "planets": [
+            "Su"
+          ],
+          "values": []
+        },
+        "7": {
+          "sign": "1",
+          "planets": [
+            "Ra"
+          ],
+          "values": []
+        },
+        "8": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "9": {
+          "sign": "3",
+          "planets": [
+            "Ve",
+            "Ne",
+            "Pl"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "4",
+          "planets": [
+            "Me",
+            "Sa"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "5",
+          "planets": [
+            "Mo",
+            "Ma"
+          ],
+          "values": []
+        },
+        "12": {
+          "sign": "6",
+          "planets": [],
+          "values": []
+        }
+      },
+      "filename": "page_044_chart_0023_shastiamsha_well_being.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 45,
+      "x0": 28.0,
+      "y0": 151.0,
+      "x1": 324.0,
+      "y1": 412.0,
+      "title": "KP System Chart",
+      "section": "KP System / Nakshatra Nadi",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'KP System Chart'",
+        "Planets detected: 12",
+        "Houses/Signs detected: 10"
+      ],
+      "planets": [
+        "Pl",
+        "Ra",
+        "Sa",
+        "Ne",
+        "Ur",
+        "Ma",
+        "Ju",
+        "Ke",
+        "Ve",
+        "Su",
+        "Me",
+        "Mo"
+      ],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [
+            "Pl(10)"
+          ],
+          "values": []
+        },
+        "2": {
+          "sign": "10",
+          "planets": [
+            "Ra(11)"
+          ],
+          "values": []
+        },
+        "3": {
+          "sign": "12",
+          "planets": [
+            "Sa(12)",
+            "Ne(12)"
+          ],
+          "values": []
+        },
+        "4": {
+          "sign": "1",
+          "planets": [],
+          "values": []
+        },
+        "5": {
+          "sign": "2",
+          "planets": [
+            "Ur(2)"
+          ],
+          "values": []
+        },
+        "6": {
+          "sign": "2",
+          "planets": [],
+          "values": []
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": []
+        },
+        "8": {
+          "sign": "4",
+          "planets": [
+            "Ma(5)",
+            "Ju(5)",
+            "Ke(5)"
+          ],
+          "values": []
+        },
+        "9": {
+          "sign": "6",
+          "planets": [
+            "Ve(6)"
+          ],
+          "values": []
+        },
+        "10": {
+          "sign": "7",
+          "planets": [
+            "Su(7)",
+            "Me(7)"
+          ],
+          "values": []
+        },
+        "11": {
+          "sign": "8",
+          "planets": [],
+          "values": []
+        },
+        "12": {
+          "sign": "8",
+          "planets": [
+            "Mo(9)"
+          ],
+          "values": []
+        }
+      },
+      "filename": "page_045_chart_0024_kp_system_chart.png",
+      "decision": "accepted"
+    },
+    {
+      "page": 55,
+      "x0": 125.0,
+      "y0": 287.0,
+      "x1": 475.0,
+      "y1": 547.0,
+      "title": "Ashtakvarga Chart",
+      "section": "Ashtakvarga Table",
+      "method": "vector_kundli_detector",
+      "score": 1.0,
+      "reasons": [
+        "North Indian Kundli structure (12 diagonal lines)",
+        "Identified chart title: 'Ashtakvarga Chart'",
+        "Planets detected: 0",
+        "Houses/Signs detected: 12"
+      ],
+      "planets": [],
+      "signs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "house_data": {
+        "1": {
+          "sign": "9",
+          "planets": [],
+          "values": [
+            "28"
+          ]
+        },
+        "2": {
+          "sign": "10",
+          "planets": [],
+          "values": [
+            "28"
+          ]
+        },
+        "3": {
+          "sign": "11",
+          "planets": [],
+          "values": [
+            "29"
+          ]
+        },
+        "4": {
+          "sign": "12",
+          "planets": [],
+          "values": [
+            "29"
+          ]
+        },
+        "5": {
+          "sign": "1",
+          "planets": [],
+          "values": [
+            "20"
+          ]
+        },
+        "6": {
+          "sign": "2",
+          "planets": [],
+          "values": [
+            "36"
+          ]
+        },
+        "7": {
+          "sign": "3",
+          "planets": [],
+          "values": [
+            "32"
+          ]
+        },
+        "8": {
+          "sign": "4",
+          "planets": [],
+          "values": [
+            "30"
+          ]
+        },
+        "9": {
+          "sign": "5",
+          "planets": [],
+          "values": [
+            "30"
+          ]
+        },
+        "10": {
+          "sign": "6",
+          "planets": [],
+          "values": [
+            "25"
+          ]
+        },
+        "11": {
+          "sign": "7",
+          "planets": [],
+          "values": [
+            "31"
+          ]
+        },
+        "12": {
+          "sign": "8",
+          "planets": [],
+          "values": [
+            "19"
+          ]
+        }
+      },
+      "filename": "page_055_chart_0025_ashtakvarga_chart.png",
+      "decision": "accepted"
+    }
+  ]
+}
